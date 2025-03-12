@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body {
+    background-color: #000000;
+}
+
+h1 {
+    font-family: "Playfair Display";
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+    color: #ffffff;
+}
+  
+p {
+    font-family: "Playfair Display";
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    color: #ffffff;
+}
+
+#textBlock {
+    padding: 150px 0;
+}
